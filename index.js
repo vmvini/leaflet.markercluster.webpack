@@ -1,4 +1,4 @@
-require('./node_modules/leaflet/dist/leaflet.css');
+require('./../leaflet/dist/leaflet.css');
 require('./css/MarkerCluster.css');
 require('./css/MarkerCluster.Default.css');
 

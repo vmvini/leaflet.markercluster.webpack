@@ -1,6 +1,6 @@
 {
   "name": "leaflet.markercluster.webpack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is the leaflet.markercluster@0.5.0 adapted to webpack",
   "main": "index.js",
   "dependencies": {
